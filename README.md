@@ -2,7 +2,7 @@
 # Interpretable identification of multi-omics biomarkers across biological networks via attention-fused GraphSAGE representation learning
 
 
-<img src="figure/fig1.png" alt="drawing" width="75%"/>
+<img src="figure/final_multiomics_im.jpg" alt="drawing" width="75%"/>
 
 
 ## Abstract
