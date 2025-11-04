@@ -31,7 +31,17 @@ python
 ## Citation
 
 
-## Acknowledgements
+## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+
+## Authors
+
+**Sevinj Yolchuyeva**
+Email: [sevinj.yolchuyeva@crchudequebec.ulaval.ca](mailto:sevinj.yolchuyeva@crchudequebec.ulaval.ca)
+
+Centre de Recherche du CHU de Québec - Université Laval
 
 
