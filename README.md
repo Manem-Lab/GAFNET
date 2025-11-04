@@ -13,10 +13,7 @@ Finally, we applied the SHAP (SHapley Additive exPlanations) GradientExplainer t
 
 ## Installation
 ```
-conda env create -n lung-ddpm python=3.9
-conda activate lung-ddpm
-conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.6 -c pytorch -c nvidia
-pip install -r requirements.txt
+ pip install -r requirements.txt
 ```
 
 ## Data Preparation
