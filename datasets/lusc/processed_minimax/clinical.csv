@@ -1,0 +1,297 @@
+submitter_id,age_at_index,race,ethnicity,vital,days_to_last_follow_up,median_value
+TCGA-18-3417,65.0,not reported,not reported,Dead,1097.0,1
+TCGA-18-4721,74.0,white,not hispanic or latino,Alive,4694.0,1
+TCGA-18-5592,57.0,not reported,not reported,Alive,1519.0,1
+TCGA-18-5595,50.0,not reported,not reported,Dead,827.0,1
+TCGA-21-5782,68.0,white,not hispanic or latino,Dead,962.0,1
+TCGA-21-5783,76.0,white,not hispanic or latino,Dead,2680.0,1
+TCGA-21-5784,80.0,white,not hispanic or latino,Alive,1268.0,1
+TCGA-21-5786,64.0,white,not hispanic or latino,Alive,1032.0,1
+TCGA-21-A5DI,77.0,white,not hispanic or latino,Alive,979.0,1
+TCGA-22-4593,77.0,white,not reported,Dead,1067.0,1
+TCGA-22-4605,78.0,not reported,not reported,Dead,974.0,1
+TCGA-22-4609,81.0,white,not reported,Dead,291.0,0
+TCGA-22-4613,73.0,white,not reported,Dead,358.0,0
+TCGA-22-5471,75.0,white,not reported,Alive,1845.0,1
+TCGA-22-5473,78.0,white,not hispanic or latino,Dead,1933.0,1
+TCGA-22-5474,74.0,white,not reported,Dead,445.0,0
+TCGA-22-5477,65.0,white,not reported,Dead,1346.0,1
+TCGA-22-5478,79.0,not reported,not reported,Dead,24.0,0
+TCGA-22-5479,64.0,white,not reported,Dead,2625.0,1
+TCGA-22-5481,72.0,white,not reported,Dead,2409.0,1
+TCGA-22-5482,81.0,white,not reported,Dead,357.0,0
+TCGA-22-5485,58.0,white,not reported,Dead,916.0,1
+TCGA-22-5491,74.0,white,not reported,Dead,1713.0,1
+TCGA-22-5492,73.0,not reported,not reported,Dead,506.0,0
+TCGA-22-A5C4,70.0,white,not hispanic or latino,Alive,671.0,1
+TCGA-33-4566,40.0,white,not hispanic or latino,Dead,5287.0,1
+TCGA-33-4582,55.0,white,not hispanic or latino,Dead,3149.0,1
+TCGA-33-4583,73.0,white,not hispanic or latino,Dead,4601.0,1
+TCGA-33-4587,63.0,white,not hispanic or latino,Dead,1656.0,1
+TCGA-33-4589,62.0,white,hispanic or latino,Dead,47.0,0
+TCGA-33-6738,80.0,white,not reported,Alive,1927.0,1
+TCGA-33-A4WN,60.0,white,not hispanic or latino,Dead,143.0,0
+TCGA-33-A5GW,67.0,white,not hispanic or latino,Dead,9.0,0
+TCGA-33-AAS8,59.0,black or african american,not hispanic or latino,Dead,1114.0,1
+TCGA-33-AASB,66.0,black or african american,not hispanic or latino,Dead,211.0,0
+TCGA-33-AASD,83.0,black or african american,not hispanic or latino,Dead,2249.0,1
+TCGA-33-AASI,65.0,black or african american,not hispanic or latino,Dead,1344.0,1
+TCGA-33-AASJ,60.0,black or african american,not hispanic or latino,Dead,3600.0,1
+TCGA-34-5231,72.0,white,not hispanic or latino,Dead,1984.0,1
+TCGA-34-5232,75.0,black or african american,not hispanic or latino,Alive,2471.0,1
+TCGA-34-5234,71.0,white,not hispanic or latino,Alive,2271.0,1
+TCGA-34-5236,60.0,white,not hispanic or latino,Dead,276.0,0
+TCGA-34-5240,73.0,white,not hispanic or latino,Alive,1541.0,1
+TCGA-34-5241,79.0,white,not hispanic or latino,Dead,515.0,0
+TCGA-34-5928,83.0,white,not hispanic or latino,Alive,1196.0,1
+TCGA-34-5929,78.0,white,not hispanic or latino,Dead,151.0,0
+TCGA-34-7107,70.0,white,not hispanic or latino,Dead,34.0,0
+TCGA-34-8454,62.0,white,not hispanic or latino,Alive,1180.0,1
+TCGA-34-8456,71.0,white,not hispanic or latino,Alive,804.0,1
+TCGA-34-A5IX,80.0,white,not hispanic or latino,Alive,1031.0,1
+TCGA-37-5819,64.0,white,not hispanic or latino,Alive,103.0,0
+TCGA-37-A5EL,53.0,white,not hispanic or latino,Dead,1143.0,1
+TCGA-37-A5EM,49.0,white,not hispanic or latino,Alive,867.0,1
+TCGA-37-A5EN,59.0,white,not hispanic or latino,Alive,660.0,1
+TCGA-39-5011,70.0,white,not hispanic or latino,Alive,4053.0,1
+TCGA-39-5019,70.0,white,not hispanic or latino,Alive,3387.0,1
+TCGA-39-5024,65.0,white,not hispanic or latino,Alive,2510.0,1
+TCGA-39-5027,73.0,white,not hispanic or latino,Alive,3108.0,1
+TCGA-39-5028,75.0,white,not hispanic or latino,Dead,52.0,0
+TCGA-39-5030,81.0,asian,not reported,Dead,59.0,0
+TCGA-39-5031,76.0,not reported,not reported,Dead,1841.0,1
+TCGA-39-5035,72.0,white,not hispanic or latino,Alive,2080.0,1
+TCGA-39-5036,73.0,white,not reported,Alive,2165.0,1
+TCGA-39-5037,65.0,white,not hispanic or latino,Alive,1690.0,1
+TCGA-43-5670,70.0,white,not hispanic or latino,Alive,849.0,1
+TCGA-43-6143,70.0,white,not hispanic or latino,Alive,699.0,1
+TCGA-43-6647,69.0,white,not hispanic or latino,Alive,757.0,1
+TCGA-43-6770,59.0,black or african american,not hispanic or latino,Alive,653.0,1
+TCGA-43-6771,85.0,white,not reported,Dead,166.0,0
+TCGA-43-6773,76.0,white,not reported,Dead,116.0,0
+TCGA-43-7656,71.0,white,not hispanic or latino,Alive,596.0,0
+TCGA-43-7657,68.0,white,not hispanic or latino,Alive,236.0,0
+TCGA-43-8115,72.0,white,not hispanic or latino,Alive,407.0,0
+TCGA-43-8116,73.0,white,not hispanic or latino,Alive,358.0,0
+TCGA-43-A474,66.0,white,not hispanic or latino,Alive,353.0,0
+TCGA-43-A475,67.0,white,not hispanic or latino,Alive,296.0,0
+TCGA-43-A56U,76.0,white,not hispanic or latino,Alive,432.0,0
+TCGA-46-6025,71.0,white,not hispanic or latino,Alive,324.0,0
+TCGA-46-6026,81.0,white,not hispanic or latino,Alive,423.0,0
+TCGA-51-6867,72.0,white,not hispanic or latino,Dead,1856.0,1
+TCGA-52-7622,62.0,white,hispanic or latino,Alive,862.0,1
+TCGA-52-7809,74.0,white,not hispanic or latino,Dead,166.0,0
+TCGA-52-7810,60.0,white,not hispanic or latino,Alive,923.0,1
+TCGA-52-7811,67.0,white,hispanic or latino,Dead,266.0,0
+TCGA-56-5897,74.0,white,not hispanic or latino,Alive,378.0,0
+TCGA-56-5898,69.0,white,not hispanic or latino,Alive,555.0,0
+TCGA-56-6545,77.0,white,not reported,Alive,666.0,1
+TCGA-56-7221,79.0,white,not reported,Alive,608.0,0
+TCGA-56-7580,84.0,white,not hispanic or latino,Alive,925.0,1
+TCGA-56-7582,83.0,white,not hispanic or latino,Alive,601.0,0
+TCGA-56-7730,73.0,white,not hispanic or latino,Dead,198.0,0
+TCGA-56-7731,66.0,white,not hispanic or latino,Dead,3.0,0
+TCGA-56-7823,58.0,white,not hispanic or latino,Alive,1011.0,1
+TCGA-56-8082,80.0,white,not hispanic or latino,Alive,455.0,0
+TCGA-56-8083,56.0,white,not hispanic or latino,Alive,150.0,0
+TCGA-56-8304,73.0,white,Unknown,Alive,106.0,0
+TCGA-56-8305,72.0,white,not hispanic or latino,Alive,105.0,0
+TCGA-56-8307,55.0,white,not hispanic or latino,Alive,818.0,1
+TCGA-56-8308,79.0,white,not hispanic or latino,Alive,517.0,0
+TCGA-56-8309,66.0,white,not hispanic or latino,Alive,428.0,0
+TCGA-56-8503,76.0,white,not hispanic or latino,Alive,41.0,0
+TCGA-56-8504,74.0,white,not hispanic or latino,Alive,510.0,0
+TCGA-56-8622,68.0,white,not hispanic or latino,Alive,55.0,0
+TCGA-56-8624,84.0,white,not hispanic or latino,Alive,420.0,0
+TCGA-56-8625,66.0,white,not hispanic or latino,Dead,315.0,0
+TCGA-56-8626,59.0,white,not hispanic or latino,Dead,302.0,0
+TCGA-56-8628,78.0,white,not hispanic or latino,Alive,616.0,0
+TCGA-56-8629,63.0,white,not hispanic or latino,Alive,481.0,0
+TCGA-56-A49D,67.0,white,not reported,Alive,637.0,0
+TCGA-56-A4BW,55.0,white,not hispanic or latino,Alive,585.0,0
+TCGA-56-A4BX,70.0,white,not hispanic or latino,Alive,405.0,0
+TCGA-56-A4BY,66.0,white,not hispanic or latino,Dead,543.0,0
+TCGA-56-A4ZK,76.0,white,not hispanic or latino,Alive,570.0,0
+TCGA-56-A5DR,81.0,white,not hispanic or latino,Alive,4.0,0
+TCGA-56-A62T,78.0,black or african american,not hispanic or latino,Alive,440.0,0
+TCGA-58-8386,75.0,not reported,not reported,Dead,1.0,0
+TCGA-58-8387,60.0,white,not hispanic or latino,Dead,403.0,0
+TCGA-58-8388,60.0,white,not hispanic or latino,Dead,412.0,0
+TCGA-58-8390,70.0,white,not hispanic or latino,Alive,911.0,1
+TCGA-58-8391,57.0,white,not hispanic or latino,Alive,2167.0,1
+TCGA-58-8392,70.0,white,not hispanic or latino,Dead,501.0,0
+TCGA-58-8393,68.0,white,not hispanic or latino,Alive,1058.0,1
+TCGA-58-A46J,64.0,white,not hispanic or latino,Alive,2589.0,1
+TCGA-58-A46L,73.0,white,not hispanic or latino,Alive,1723.0,1
+TCGA-58-A46M,61.0,white,not hispanic or latino,Alive,1072.0,1
+TCGA-60-2697,41.0,white,not reported,Dead,372.0,0
+TCGA-60-2704,73.0,white,not hispanic or latino,Dead,1154.0,1
+TCGA-60-2709,69.0,black or african american,not hispanic or latino,Alive,1505.0,1
+TCGA-63-6202,,not reported,not reported,Alive,1602.0,1
+TCGA-63-7020,,not reported,not reported,Alive,2133.0,1
+TCGA-63-7022,,not reported,not reported,Alive,2073.0,1
+TCGA-63-A5M9,,not reported,not reported,Alive,0.0,0
+TCGA-63-A5MB,62.0,not reported,not reported,Alive,3123.0,1
+TCGA-63-A5MG,68.0,not reported,not reported,Alive,2148.0,1
+TCGA-63-A5MI,65.0,not reported,not reported,Alive,1784.0,1
+TCGA-63-A5MJ,54.0,not reported,not reported,Alive,1824.0,1
+TCGA-63-A5ML,68.0,not reported,not reported,Alive,1386.0,1
+TCGA-63-A5MN,78.0,not reported,not reported,Dead,345.0,0
+TCGA-63-A5MR,70.0,not reported,not reported,Alive,2716.0,1
+TCGA-63-A5MS,78.0,not reported,not reported,Alive,2381.0,1
+TCGA-63-A5MT,74.0,not reported,not reported,Alive,498.0,0
+TCGA-63-A5MU,48.0,not reported,not reported,Dead,420.0,0
+TCGA-63-A5MV,69.0,not reported,not reported,Alive,1100.0,1
+TCGA-63-A5MW,76.0,not reported,not reported,Alive,1639.0,1
+TCGA-63-A5MY,63.0,not reported,not reported,Alive,1052.0,1
+TCGA-68-7755,60.0,white,not hispanic or latino,Alive,83.0,0
+TCGA-68-7756,84.0,white,not hispanic or latino,Alive,202.0,0
+TCGA-68-7757,74.0,white,not hispanic or latino,Alive,211.0,0
+TCGA-68-8251,78.0,white,hispanic or latino,Alive,406.0,0
+TCGA-68-A59J,74.0,white,not hispanic or latino,Alive,448.0,0
+TCGA-70-6722,47.0,asian,not hispanic or latino,Alive,367.0,0
+TCGA-70-6723,65.0,asian,not hispanic or latino,Alive,375.0,0
+TCGA-77-6843,74.0,white,not reported,Dead,2224.0,1
+TCGA-77-6845,69.0,white,not reported,Dead,708.0,1
+TCGA-77-7138,67.0,not reported,not reported,Dead,340.0,0
+TCGA-77-7139,56.0,white,not reported,Alive,4261.0,1
+TCGA-77-7141,64.0,white,not reported,Alive,15.0,0
+TCGA-77-7142,59.0,white,not reported,Alive,2227.0,1
+TCGA-77-7335,62.0,white,not reported,Dead,2133.0,1
+TCGA-77-7337,65.0,white,not reported,Dead,3253.0,1
+TCGA-77-7338,64.0,white,not reported,Dead,5.0,0
+TCGA-77-7463,75.0,white,not reported,Dead,1423.0,1
+TCGA-77-7465,58.0,white,not reported,Alive,990.0,1
+TCGA-77-8007,68.0,not reported,not reported,Dead,198.0,0
+TCGA-77-8008,68.0,not reported,not reported,Dead,2639.0,1
+TCGA-77-8009,68.0,not reported,not reported,Dead,1695.0,1
+TCGA-77-8128,60.0,not reported,not reported,Dead,1150.0,1
+TCGA-77-8130,69.0,not reported,not reported,Alive,4765.0,1
+TCGA-77-8131,72.0,not reported,not reported,Dead,383.0,0
+TCGA-77-8133,74.0,not reported,not reported,Dead,1640.0,1
+TCGA-77-8139,72.0,not reported,not reported,Alive,3166.0,1
+TCGA-77-8140,66.0,not reported,not reported,Dead,351.0,0
+TCGA-77-8143,76.0,not reported,not reported,Dead,803.0,1
+TCGA-77-8144,70.0,not reported,not reported,Alive,833.0,1
+TCGA-77-8146,72.0,not reported,not reported,Alive,3189.0,1
+TCGA-77-8148,68.0,not reported,not reported,Alive,2023.0,1
+TCGA-77-8153,77.0,not reported,not reported,Alive,1992.0,1
+TCGA-77-8154,67.0,not reported,Unknown,Alive,1841.0,1
+TCGA-77-8156,60.0,not reported,not reported,Alive,1106.0,1
+TCGA-77-A5FZ,64.0,not reported,not reported,Dead,3838.0,1
+TCGA-77-A5G1,75.0,not reported,not reported,Alive,4026.0,1
+TCGA-77-A5G3,63.0,not reported,not reported,Alive,4570.0,1
+TCGA-77-A5G6,66.0,not reported,not reported,Dead,678.0,1
+TCGA-77-A5G7,63.0,not reported,not reported,Dead,180.0,0
+TCGA-77-A5G8,70.0,not reported,not reported,Alive,1884.0,1
+TCGA-77-A5GF,70.0,not reported,not reported,Dead,840.0,1
+TCGA-77-A5GH,81.0,not reported,not reported,Alive,1182.0,1
+TCGA-85-6175,63.0,white,not hispanic or latino,Dead,294.0,0
+TCGA-85-6560,59.0,white,not hispanic or latino,Alive,1259.0,1
+TCGA-85-6561,66.0,white,not hispanic or latino,Alive,1224.0,1
+TCGA-85-7696,64.0,white,not hispanic or latino,Alive,1111.0,1
+TCGA-85-7697,49.0,white,not hispanic or latino,Alive,1063.0,1
+TCGA-85-7698,48.0,white,not hispanic or latino,Alive,952.0,1
+TCGA-85-7710,59.0,white,not hispanic or latino,Alive,42.0,0
+TCGA-85-7843,50.0,white,not hispanic or latino,Alive,35.0,0
+TCGA-85-7844,71.0,white,not hispanic or latino,Alive,911.0,1
+TCGA-85-7950,46.0,white,not hispanic or latino,Alive,576.0,0
+TCGA-85-8048,62.0,white,not hispanic or latino,Alive,765.0,1
+TCGA-85-8049,57.0,white,not hispanic or latino,Alive,579.0,0
+TCGA-85-8052,53.0,white,not hispanic or latino,Alive,734.0,1
+TCGA-85-8070,71.0,white,not hispanic or latino,Alive,960.0,1
+TCGA-85-8071,52.0,white,not hispanic or latino,Alive,815.0,1
+TCGA-85-8072,60.0,white,not hispanic or latino,Alive,932.0,1
+TCGA-85-8276,62.0,white,not hispanic or latino,Alive,1050.0,1
+TCGA-85-8287,72.0,white,not hispanic or latino,Dead,23.0,0
+TCGA-85-8288,70.0,white,not hispanic or latino,Dead,402.0,0
+TCGA-85-8350,61.0,white,not hispanic or latino,Alive,683.0,1
+TCGA-85-8351,72.0,white,not hispanic or latino,Alive,510.0,0
+TCGA-85-8352,67.0,white,not hispanic or latino,Dead,161.0,0
+TCGA-85-8353,72.0,white,not hispanic or latino,Dead,94.0,0
+TCGA-85-8354,53.0,white,not hispanic or latino,Alive,995.0,1
+TCGA-85-8355,63.0,white,not hispanic or latino,Alive,61.0,0
+TCGA-85-8479,66.0,white,not hispanic or latino,Alive,468.0,0
+TCGA-85-8481,70.0,white,not hispanic or latino,Dead,236.0,0
+TCGA-85-8580,52.0,white,not hispanic or latino,Alive,1113.0,1
+TCGA-85-8582,49.0,white,not hispanic or latino,Alive,1160.0,1
+TCGA-85-8584,71.0,white,not hispanic or latino,Dead,383.0,0
+TCGA-85-8664,73.0,white,not hispanic or latino,Dead,550.0,0
+TCGA-85-8666,65.0,white,not hispanic or latino,Dead,687.0,1
+TCGA-85-A4CL,65.0,white,not hispanic or latino,Dead,921.0,1
+TCGA-85-A4CN,56.0,white,not hispanic or latino,Alive,1038.0,1
+TCGA-85-A4JB,74.0,white,not hispanic or latino,Alive,942.0,1
+TCGA-85-A4JC,84.0,white,not hispanic or latino,Dead,604.0,0
+TCGA-85-A4PA,61.0,white,not hispanic or latino,Alive,741.0,1
+TCGA-85-A4QQ,68.0,white,not hispanic or latino,Dead,927.0,1
+TCGA-85-A4QR,67.0,white,not hispanic or latino,Alive,600.0,0
+TCGA-85-A50M,47.0,asian,not hispanic or latino,Dead,826.0,1
+TCGA-85-A50Z,57.0,white,not hispanic or latino,Alive,493.0,0
+TCGA-85-A510,74.0,white,not hispanic or latino,Alive,482.0,0
+TCGA-85-A511,62.0,white,not hispanic or latino,Dead,455.0,0
+TCGA-85-A512,46.0,white,not hispanic or latino,Alive,465.0,0
+TCGA-85-A513,60.0,asian,not hispanic or latino,Alive,910.0,1
+TCGA-85-A53L,63.0,asian,not hispanic or latino,Alive,377.0,0
+TCGA-85-A5B5,58.0,white,not hispanic or latino,Alive,111.0,0
+TCGA-90-6837,64.0,white,not hispanic or latino,Alive,758.0,1
+TCGA-90-7766,66.0,white,not hispanic or latino,Alive,289.0,0
+TCGA-90-7767,56.0,white,not hispanic or latino,Alive,89.0,0
+TCGA-90-7769,55.0,white,not hispanic or latino,Alive,358.0,0
+TCGA-90-A4ED,69.0,white,not hispanic or latino,Alive,615.0,0
+TCGA-90-A4EE,53.0,white,not hispanic or latino,Alive,688.0,1
+TCGA-90-A59Q,61.0,white,not hispanic or latino,Dead,322.0,0
+TCGA-92-7340,45.0,white,not hispanic or latino,Alive,82.0,0
+TCGA-92-7341,71.0,white,not hispanic or latino,Alive,106.0,0
+TCGA-92-8063,52.0,white,not hispanic or latino,Alive,122.0,0
+TCGA-92-8064,58.0,white,not hispanic or latino,Alive,160.0,0
+TCGA-92-8065,74.0,white,not hispanic or latino,Alive,70.0,0
+TCGA-94-7033,73.0,white,not hispanic or latino,Alive,640.0,0
+TCGA-94-7557,73.0,black or african american,not hispanic or latino,Dead,5.0,0
+TCGA-94-7943,80.0,white,not hispanic or latino,Alive,559.0,0
+TCGA-94-8035,64.0,white,not hispanic or latino,Alive,122.0,0
+TCGA-94-8490,70.0,white,not hispanic or latino,Alive,153.0,0
+TCGA-94-8491,73.0,white,Unknown,Alive,810.0,1
+TCGA-94-A4VJ,71.0,white,not hispanic or latino,Alive,430.0,0
+TCGA-94-A5I4,61.0,white,not hispanic or latino,Alive,491.0,0
+TCGA-94-A5I6,62.0,white,not hispanic or latino,Alive,538.0,0
+TCGA-96-7544,83.0,white,not hispanic or latino,Dead,2160.0,1
+TCGA-96-8169,67.0,white,not hispanic or latino,Alive,557.0,0
+TCGA-96-8170,75.0,white,not hispanic or latino,Alive,531.0,0
+TCGA-96-A4JL,78.0,asian,not hispanic or latino,Alive,842.0,1
+TCGA-98-7454,73.0,white,not hispanic or latino,Alive,652.0,1
+TCGA-98-8021,75.0,white,not hispanic or latino,Alive,937.0,1
+TCGA-98-8022,61.0,white,not hispanic or latino,Dead,933.0,1
+TCGA-98-8023,70.0,white,not hispanic or latino,Alive,649.0,0
+TCGA-98-A538,67.0,white,not hispanic or latino,Alive,826.0,1
+TCGA-98-A539,63.0,white,not hispanic or latino,Alive,173.0,0
+TCGA-98-A53A,70.0,black or african american,not hispanic or latino,Dead,552.0,0
+TCGA-98-A53B,69.0,white,not hispanic or latino,Dead,61.0,0
+TCGA-98-A53C,77.0,white,not hispanic or latino,Alive,822.0,1
+TCGA-98-A53H,76.0,white,not hispanic or latino,Alive,618.0,0
+TCGA-98-A53I,64.0,white,not hispanic or latino,Alive,565.0,0
+TCGA-98-A53J,77.0,white,not hispanic or latino,Alive,630.0,0
+TCGA-J1-A4AH,70.0,white,not hispanic or latino,Alive,581.0,0
+TCGA-L3-A4E7,71.0,white,not hispanic or latino,Alive,392.0,0
+TCGA-L3-A524,45.0,white,not hispanic or latino,Dead,490.0,0
+TCGA-LA-A446,68.0,white,not hispanic or latino,Alive,401.0,0
+TCGA-MF-A522,54.0,white,Unknown,Dead,360.0,0
+TCGA-NC-A5HD,79.0,white,not reported,Dead,2.0,0
+TCGA-NC-A5HF,74.0,white,not reported,Dead,138.0,0
+TCGA-NC-A5HG,59.0,white,not reported,Alive,1963.0,1
+TCGA-NC-A5HH,53.0,white,not reported,Alive,37.0,0
+TCGA-NC-A5HJ,59.0,white,not reported,Dead,418.0,0
+TCGA-NC-A5HK,58.0,white,not reported,Alive,128.0,0
+TCGA-NC-A5HL,73.0,white,not reported,Dead,88.0,0
+TCGA-NC-A5HM,76.0,white,not reported,Alive,1212.0,1
+TCGA-NC-A5HN,77.0,white,not reported,Alive,1499.0,1
+TCGA-NC-A5HO,70.0,white,not reported,Alive,1336.0,1
+TCGA-NC-A5HQ,70.0,white,not reported,Dead,448.0,0
+TCGA-NK-A5CR,77.0,Unknown,not hispanic or latino,Alive,2542.0,1
+TCGA-NK-A5CX,73.0,white,not hispanic or latino,Alive,111.0,0
+TCGA-NK-A7XE,66.0,black or african american,not hispanic or latino,Alive,13.0,0
+TCGA-O2-A52N,78.0,white,not hispanic or latino,Dead,1006.0,1
+TCGA-O2-A52Q,44.0,white,not hispanic or latino,Dead,113.0,0
+TCGA-O2-A52S,57.0,white,not hispanic or latino,Dead,387.0,0
+TCGA-O2-A52V,75.0,black or african american,not hispanic or latino,Dead,1335.0,1
+TCGA-O2-A52W,63.0,black or african american,not hispanic or latino,Dead,261.0,0
+TCGA-XC-AA0X,77.0,black or african american,not hispanic or latino,Dead,6.0,0
