@@ -6,7 +6,7 @@ import subprocess
 data_path_or='dataset_original/lusc/'
 clinical_file="clinical.project-tcga-lusc.2025-07-03.json"
 omics_files = ["rna_LUSC.csv", "mirna_LUSC.csv", "gene_level_methylation_global_top4500_LUSC.csv"]
-output_dir = "dataset_final/lusc2/"  # Single output directory for everything
+output_dir = "dataset_final/lusc/"  # Single output directory for everything
 os.makedirs(output_dir, exist_ok=True)
 print("🧪 Running data_processing_stage_1")
 
