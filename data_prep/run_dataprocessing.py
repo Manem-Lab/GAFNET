@@ -28,7 +28,7 @@ print("\n✅  First stage complete!")
 data_path = output_dir# contains data files
 clinical_file = "clinical.csv"
 omics_files = ["rna.csv", "mirna.csv", "dna_myth.csv"]
-output_dir = os.path.join(data_path, "minimax_var_1")  # Single output directory for everything
+output_dir = os.path.join(data_path, "processed_minimax")  # Single output directory for everything
 os.makedirs(output_dir, exist_ok=True)
 print("🧪 Running data_processing_stage_2 ")
 
