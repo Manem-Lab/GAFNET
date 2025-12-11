@@ -1,5 +1,5 @@
 <!-- #region -->
-# Interpretable identification of multi-omics biomarkers across biological networks via attention-fused GraphSAGE representation learning
+# Multi-Omics Biomarker Discovery with Attention-Enhanced GraphSAGE
 
 
 <img src="figure/figure_1.png" alt="drawing" width="75%"/>
