@@ -65,9 +65,8 @@ Each dataset lives under `{data_path}/{dataset}/minimax_var_1/` and contains fou
 | `rna.csv` | mRNA expression (pre-normalised) | `(n_samples, n_genes)` |
 | `mirna.csv` | miRNA expression (pre-normalised) | `(n_samples, n_mirnas)` |
 | `dna.csv` | DNA methylation beta values | `(n_samples, n_cpg)` |
-| `clinical.csv` | Labels — must contain a `median_value` column | `(n_samples, ...)` |
 
-The `median_value` column should be binary (0 / 1).
+The `end point` column should be binary (0 / 1).
 
 ---
 
