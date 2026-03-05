@@ -10,10 +10,6 @@ Across 18 TCGA cancer cohorts, the proposed model consistently achieved higher A
 Finally, we applied the SHAP (SHapley Additive exPlanations) GradientExplainer to quantify the contribution of each molecular feature within mRNA, miRNA, and DNA methylation data, enabling the identification of biologically meaningful biomarkers associated with patient survival. Collectively, these results demonstrate that our GraphSAGE-Attention framework effectively integrates heterogeneous omics data, enhances graph connectivity, and improves predictive accuracy across diverse cancer types.
 
 
-# Multimodal GraphSAGE — Pan-Cancer Classification
-
-A graph-based deep learning framework for binary cancer classification using three genomic modalities: **mRNA expression**, **miRNA expression**, and **DNA methylation**. Per-sample nodes are connected via mutual kNN graphs within each modality and cross-modality identity edges, then fused with a learned attention mechanism.
-
 ---
 
 ## Overview
