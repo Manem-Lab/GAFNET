@@ -127,16 +127,6 @@ grid_knn_only = {
 }
 ```
 
-## Outputs
-
-For each dataset, three files are written to the output directory:
-
-| File | Content |
-|---|---|
-| `{dataset}_atten_map.npy` | Attention weights array — shape `(n_val_samples, 3)` |
-| `{dataset}_attn_dist.png` | Violin plot of per-modality attention distributions |
-| `{dataset}_result.csv` | Best hyperparams + mean/std AUC, F1, ACC across folds |
-
 ---
 
 ## Supported Datasets
